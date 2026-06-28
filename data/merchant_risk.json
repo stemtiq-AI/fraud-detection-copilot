@@ -1,0 +1,21 @@
+{
+  "BigBasket": {"category": "Groceries", "chargeback_rate": 0.001, "high_risk_category": false},
+  "Cafe Coffee Day": {"category": "Dining", "chargeback_rate": 0.002, "high_risk_category": false},
+  "Croma Electronics": {"category": "Electronics", "chargeback_rate": 0.01, "high_risk_category": false},
+  "The Bombay Canteen": {"category": "Dining", "chargeback_rate": 0.002, "high_risk_category": false},
+  "Indigo Airlines Lounge": {"category": "Travel", "chargeback_rate": 0.005, "high_risk_category": false},
+  "PVR Cinemas": {"category": "Entertainment", "chargeback_rate": 0.001, "high_risk_category": false},
+  "Reliance Fresh": {"category": "Groceries", "chargeback_rate": 0.001, "high_risk_category": false},
+  "QuickPay Wallet Top-up": {"category": "Subscriptions", "chargeback_rate": 0.08, "high_risk_category": true},
+  "ZenPay Gateway": {"category": "Subscriptions", "chargeback_rate": 0.09, "high_risk_category": true},
+  "NimbleCheckout": {"category": "Subscriptions", "chargeback_rate": 0.07, "high_risk_category": true},
+  "FastPay Online": {"category": "Subscriptions", "chargeback_rate": 0.08, "high_risk_category": true},
+  "TrustGate Pay": {"category": "Subscriptions", "chargeback_rate": 0.085, "high_risk_category": true},
+  "Joe's Diner": {"category": "Dining", "chargeback_rate": 0.002, "high_risk_category": false},
+  "Global Electronics Hub": {"category": "Electronics", "chargeback_rate": 0.21, "high_risk_category": true},
+  "Delta Airlines": {"category": "Travel", "chargeback_rate": 0.004, "high_risk_category": false},
+  "Pao de Acucar": {"category": "Groceries", "chargeback_rate": 0.001, "high_risk_category": false},
+  "Posto Ipiranga": {"category": "Fuel", "chargeback_rate": 0.002, "high_risk_category": false},
+  "Courts Megastore": {"category": "Electronics", "chargeback_rate": 0.01, "high_risk_category": false},
+  "Din Tai Fung": {"category": "Dining", "chargeback_rate": 0.002, "high_risk_category": false}
+}

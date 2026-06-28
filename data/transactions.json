@@ -1,0 +1,26 @@
+[
+  {"transaction_id": "TXN0001", "customer_id": "CUST1001", "amount": 1850, "merchant": "BigBasket", "category": "Groceries", "city": "Mumbai", "timestamp": "2026-06-20T09:12:00", "card_present": true},
+  {"transaction_id": "TXN0002", "customer_id": "CUST1001", "amount": 2400, "merchant": "Cafe Coffee Day", "category": "Dining", "city": "Mumbai", "timestamp": "2026-06-20T13:05:00", "card_present": true},
+  {"transaction_id": "TXN0003", "customer_id": "CUST1001", "amount": 2100, "merchant": "Croma Electronics", "category": "Electronics", "city": "Mumbai", "timestamp": "2026-06-20T18:40:00", "card_present": true},
+
+  {"transaction_id": "TXN0004", "customer_id": "CUST1002", "amount": 3200, "merchant": "The Bombay Canteen", "category": "Dining", "city": "Mumbai", "timestamp": "2026-06-20T10:00:00", "card_present": true},
+  {"transaction_id": "TXN0005", "customer_id": "CUST1002", "amount": 4100, "merchant": "Indigo Airlines Lounge", "category": "Travel", "city": "Delhi", "timestamp": "2026-06-20T10:40:00", "card_present": true},
+  {"transaction_id": "TXN0006", "customer_id": "CUST1002", "amount": 3000, "merchant": "PVR Cinemas", "category": "Entertainment", "city": "Mumbai", "timestamp": "2026-06-20T20:15:00", "card_present": true},
+
+  {"transaction_id": "TXN0007", "customer_id": "CUST1003", "amount": 1750, "merchant": "Reliance Fresh", "category": "Groceries", "city": "Bengaluru", "timestamp": "2026-06-20T08:30:00", "card_present": true},
+  {"transaction_id": "TXN0008", "customer_id": "CUST1003", "amount": 80, "merchant": "QuickPay Wallet Top-up", "category": "Subscriptions", "city": "Bengaluru", "timestamp": "2026-06-20T23:01:00", "card_present": false},
+  {"transaction_id": "TXN0009", "customer_id": "CUST1003", "amount": 50, "merchant": "ZenPay Gateway", "category": "Subscriptions", "city": "Bengaluru", "timestamp": "2026-06-20T23:02:10", "card_present": false},
+  {"transaction_id": "TXN0010", "customer_id": "CUST1003", "amount": 120, "merchant": "NimbleCheckout", "category": "Subscriptions", "city": "Bengaluru", "timestamp": "2026-06-20T23:02:45", "card_present": false},
+  {"transaction_id": "TXN0011", "customer_id": "CUST1003", "amount": 65, "merchant": "FastPay Online", "category": "Subscriptions", "city": "Bengaluru", "timestamp": "2026-06-20T23:03:30", "card_present": false},
+  {"transaction_id": "TXN0012", "customer_id": "CUST1003", "amount": 95, "merchant": "TrustGate Pay", "category": "Subscriptions", "city": "Bengaluru", "timestamp": "2026-06-20T23:04:05", "card_present": false},
+
+  {"transaction_id": "TXN0013", "customer_id": "CUST1004", "amount": 4500, "merchant": "Joe's Diner", "category": "Dining", "city": "New York", "timestamp": "2026-06-20T12:00:00", "card_present": true},
+  {"transaction_id": "TXN0014", "customer_id": "CUST1004", "amount": 187500, "merchant": "Global Electronics Hub", "category": "Electronics", "city": "Lagos", "timestamp": "2026-06-20T21:50:00", "card_present": false},
+  {"transaction_id": "TXN0015", "customer_id": "CUST1004", "amount": 3900, "merchant": "Delta Airlines", "category": "Travel", "city": "New York", "timestamp": "2026-06-20T07:15:00", "card_present": true},
+
+  {"transaction_id": "TXN0016", "customer_id": "CUST1005", "amount": 1400, "merchant": "Pao de Acucar", "category": "Groceries", "city": "Sao Paulo", "timestamp": "2026-06-20T11:20:00", "card_present": true},
+  {"transaction_id": "TXN0017", "customer_id": "CUST1005", "amount": 1600, "merchant": "Posto Ipiranga", "category": "Fuel", "city": "Sao Paulo", "timestamp": "2026-06-20T17:00:00", "card_present": true},
+
+  {"transaction_id": "TXN0018", "customer_id": "CUST1006", "amount": 2900, "merchant": "Courts Megastore", "category": "Electronics", "city": "Singapore", "timestamp": "2026-06-20T14:10:00", "card_present": true},
+  {"transaction_id": "TXN0019", "customer_id": "CUST1006", "amount": 2650, "merchant": "Din Tai Fung", "category": "Dining", "city": "Singapore", "timestamp": "2026-06-20T19:30:00", "card_present": true}
+]

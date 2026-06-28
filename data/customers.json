@@ -1,0 +1,44 @@
+[
+  {
+    "customer_id": "CUST1001",
+    "name": "Aisha Khan",
+    "home_city": "Mumbai",
+    "avg_transaction_amount": 2200,
+    "typical_categories": ["Groceries", "Dining", "Fuel", "Electronics"]
+  },
+  {
+    "customer_id": "CUST1002",
+    "name": "Rohan Mehta",
+    "home_city": "Mumbai",
+    "avg_transaction_amount": 3500,
+    "typical_categories": ["Dining", "Travel", "Entertainment"]
+  },
+  {
+    "customer_id": "CUST1003",
+    "name": "Priya Nair",
+    "home_city": "Bengaluru",
+    "avg_transaction_amount": 1800,
+    "typical_categories": ["Groceries", "Utilities", "Subscriptions"]
+  },
+  {
+    "customer_id": "CUST1004",
+    "name": "Daniel Cohen",
+    "home_city": "New York",
+    "avg_transaction_amount": 4200,
+    "typical_categories": ["Dining", "Electronics", "Travel"]
+  },
+  {
+    "customer_id": "CUST1005",
+    "name": "Maria Santos",
+    "home_city": "Sao Paulo",
+    "avg_transaction_amount": 1500,
+    "typical_categories": ["Groceries", "Fuel", "Dining"]
+  },
+  {
+    "customer_id": "CUST1006",
+    "name": "Wei Zhang",
+    "home_city": "Singapore",
+    "avg_transaction_amount": 2800,
+    "typical_categories": ["Electronics", "Dining", "Travel"]
+  }
+]
